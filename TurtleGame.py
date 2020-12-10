@@ -17,7 +17,7 @@ turtle.color('black')
 speed(10)
 penup()
 goto(-140,120)
-for steps in range(25):
+for steps in range(24):
     write(steps,align="center")
     right(90)
     forward(10)
